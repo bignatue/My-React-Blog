@@ -15,5 +15,5 @@ Learning to full stack interactive web application by React, Node.js and MongoDb
 - Rewriting the endpoints
 - Adding React hooks
 - Adding buttons and forms
+- Sign In and Sign Up page.
 - Pushing code to GitHub
-- Running a full-stack app on AWS
